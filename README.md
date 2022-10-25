@@ -89,6 +89,24 @@ https://github.com/deujahritik/AI_midterm_12194824/blob/main/Week_6_lab_tensorfl
 *• Image classification with a convolutional network*
 
 https://github.com/deujahritik/AI_midterm_12194824/blob/main/Week_7_lab_session.ipynb
+
+# 5.Week_9
+
+*• Logistic unit for binary classification*
+
+*• Softmax unit for multiclass classification*
+
+*• Linear unit for regression*
+
+*• The Boston Housing dataset*
+
+*• Predicting house prices with a DNN*
+
+*• Improving generalization with regularization*
+
+*• Experiment: Deeper and regularized models for house price prediction*
+
+*• Concluding remarks on output units and regression problems.*
 ```
 Prof. Mehdi Pirahandeh
 ```
