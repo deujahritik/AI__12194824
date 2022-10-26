@@ -88,7 +88,7 @@ https://github.com/deujahritik/AI_midterm_12194824/blob/main/Week_6_lab_tensorfl
 
 *• Image classification with a convolutional network*
 
-https://github.com/deujahritik/AI_midterm_12194824/blob/main/Week_7_lab_session.ipynb
+https://github.com/deujahritik/AI__12194824/blob/main/Week_7_lab_session-2.ipynb
 
 # 5.Week_9
 
