@@ -113,6 +113,7 @@ https://github.com/deujahritik/AI__12194824/blob/main/Week_7_lab_session_CIFAR10
 *• Concluding remarks on output units and regression problems.*
 
 https://github.com/deujahritik/AI__12194824/blob/main/Week_9_AI_lab.ipynb
+https://github.com/deujahritik/AI__12194824/blob/main/Week_9_lab_session-2.ipynb
 ```
 Prof. Mehdi Pirahandeh
 ```
