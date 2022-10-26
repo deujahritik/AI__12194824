@@ -39,6 +39,7 @@ https://github.com/deujahritik/AI__12194824/blob/main/intro_colab.ipynb
 *• Programming Example: Classifying handwritten Digits.*
 
 *• Mini-Batch gradient descent.*
+
  https://github.com/deujahritik/AI__12194824/blob/main/Google_colab.ipynb
 
 
