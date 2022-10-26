@@ -24,7 +24,7 @@
 
 *• At last, Importing Kaggle’s dataset and operating Basic Files.*
 
-https://github.com/deujahritik/AI_midterm_12194824/blob/main/Week_3_lab_Intro.ipynb
+https://github.com/deujahritik/AI__12194824/blob/main/intro_colab.ipynb
 
 ## 2.Week_4_lecture
 
@@ -39,8 +39,8 @@ https://github.com/deujahritik/AI_midterm_12194824/blob/main/Week_3_lab_Intro.ip
 *• Programming Example: Classifying handwritten Digits.*
 
 *• Mini-Batch gradient descent.*
- 
-https://github.com/deujahritik/AI_midterm_12194824/blob/main/Week_4_lab_Intro1.ipynb
+ https://github.com/deujahritik/AI__12194824/blob/main/Google_colab.ipynb
+
 
 ## 3.Week_5_lecture
 
@@ -56,7 +56,8 @@ https://github.com/deujahritik/AI_midterm_12194824/blob/main/Week_4_lab_Intro1.i
 
 *• `tf.summary.histogram` command*
 
-https://github.com/deujahritik/AI_midterm_12194824/blob/main/Week_5_lab_Intro_to_Colab.ipynb
+https://github.com/deujahritik/AI__12194824/blob/main/tensorflow.ipynb
+https://github.com/deujahritik/AI__12194824/blob/main/pip_installation.ipynb
 
 ## 3.Week_6_lecture
 
@@ -66,9 +67,10 @@ https://github.com/deujahritik/AI_midterm_12194824/blob/main/Week_5_lab_Intro_to
 
 *• Digit Classification | Neural network to classify MNIST dataset using TensorFlow*
 
-https://github.com/deujahritik/AI_midterm_12194824/blob/main/Week_6_lab_Session2.ipynb
-https://github.com/deujahritik/AI_midterm_12194824/blob/main/Week_6_lab_tensorflow.ipynb
-https://github.com/deujahritik/AI_midterm_12194824/blob/main/Week_6_lab_tensorflow_excercise_2_.ipynb
+https://github.com/deujahritik/AI__12194824/blob/main/week6_2.ipynb
+https://github.com/deujahritik/AI__12194824/blob/main/Week_6__tensorflow_session2_.ipynb
+https://github.com/deujahritik/AI__12194824/blob/main/Week6_Linear_Regression%202.ipynb
+https://github.com/deujahritik/AI__12194824/blob/main/Week6_Linear_Regression%20(2).ipynb
 
 
 ## 4.Week_7_lecture
@@ -89,6 +91,7 @@ https://github.com/deujahritik/AI_midterm_12194824/blob/main/Week_6_lab_tensorfl
 *• Image classification with a convolutional network*
 
 https://github.com/deujahritik/AI__12194824/blob/main/Week_7_lab_session-2.ipynb
+https://github.com/deujahritik/AI__12194824/blob/main/Week_7_lab_session_CIFAR10_withTorch.ipynb
 
 # 5.Week_9
 
@@ -107,6 +110,7 @@ https://github.com/deujahritik/AI__12194824/blob/main/Week_7_lab_session-2.ipynb
 *• Experiment: Deeper and regularized models for house price prediction*
 
 *• Concluding remarks on output units and regression problems.*
+https://github.com/deujahritik/AI__12194824/blob/main/Week_9_AI_lab.ipynb
 ```
 Prof. Mehdi Pirahandeh
 ```
