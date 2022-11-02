@@ -94,7 +94,7 @@ https://github.com/deujahritik/AI__12194824/blob/main/Week6_Linear_Regression%20
 https://github.com/deujahritik/AI__12194824/blob/main/Week_7_lab_session-2.ipynb
 https://github.com/deujahritik/AI__12194824/blob/main/Week_7_lab_session_CIFAR10_withTorch.ipynb
 
-# 5.Week_9
+## 5.Week_9
 
 *• Logistic unit for binary classification*
 
@@ -114,6 +114,24 @@ https://github.com/deujahritik/AI__12194824/blob/main/Week_7_lab_session_CIFAR10
 
 https://github.com/deujahritik/AI__12194824/blob/main/Week_9_AI_lab.ipynb
 https://github.com/deujahritik/AI__12194824/blob/main/Week_9_lab_session-2.ipynb
+
+## 5.Week_10
+
+*• VGGNet*
+
+*• GoogLeNet and ResNet*
+
+*• Transfer Learning*
+
+*• Data Augmentation as a Regularization Technique*
+
+*• Mistakes made by CNNs*
+
+*• Reducing parameters with Depthwise Separable Convolution*
+
+*• Striking the right network design balance with EfficientNet*
+
+
 ```
 Prof. Mehdi Pirahandeh
 ```
