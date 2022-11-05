@@ -131,7 +131,7 @@ https://github.com/deujahritik/AI__12194824/blob/main/Week_9_lab_session-2.ipynb
 
 *• Striking the right network design balance with EfficientNet*
 
-
+https://github.com/deujahritik/AI__12194824/blob/main/Week_10_lab_session_dog_image.ipynb
 ```
 Prof. Mehdi Pirahandeh
 ```
