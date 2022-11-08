@@ -132,6 +132,23 @@ https://github.com/deujahritik/AI__12194824/blob/main/Week_9_lab_session-2.ipynb
 *• Striking the right network design balance with EfficientNet*
 
 https://github.com/deujahritik/AI__12194824/blob/main/Week_10_lab_session_dog_image.ipynb
+
+## 6.Week_11_lecture
+ 
+*• Limitations of Feedforward Networks*
+
+*• Recurrent Neural Networks*
+
+*• Mathematical Representation of a Recurrent layer*
+
+*• Combining layers into an RNN*
+
+*• Alternative veiw of RNN and Unrolling in Time*
+
+*• Backpropagation Through Time*
+
+*• Programming Example: Forecasting book sales*
+
 ```
 Prof. Mehdi Pirahandeh
 ```
