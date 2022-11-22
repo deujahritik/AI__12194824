@@ -149,6 +149,29 @@ https://github.com/deujahritik/AI__12194824/blob/main/Week_10_lab_session_dog_im
 
 *• Programming Example: Forecasting book sales*
 
+## 7.Week_12_lecture
+
+*• Keeping Gradients Healthy*
+
+*• Introduction to LSTM*
+
+*• Creating a network of LSTM cells*
+
+*• Alternative view of LSTM*
+
+## 8.Week_13_lecture
+
+*• Encoding text*
+
+*• Longer-term prediction and autoregressive models*
+
+*• Beam Search*
+
+*• Bidirectional RNNS*
+
+*• Different combinations of input and output sequences*
+
+
 ```
 Prof. Mehdi Pirahandeh
 ```
