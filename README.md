@@ -149,6 +149,8 @@ https://github.com/deujahritik/AI__12194824/blob/main/Week_10_lab_session_dog_im
 
 *• Programming Example: Forecasting book sales*
 
+https://github.com/deujahritik/AI__12194824/blob/main/Week_11_lab_session.ipynb
+
 ## 7.Week_12_lecture
 
 *• Keeping Gradients Healthy*
@@ -158,6 +160,8 @@ https://github.com/deujahritik/AI__12194824/blob/main/Week_10_lab_session_dog_im
 *• Creating a network of LSTM cells*
 
 *• Alternative view of LSTM*
+
+link
 
 ## 8.Week_13_lecture
 
@@ -171,7 +175,7 @@ https://github.com/deujahritik/AI__12194824/blob/main/Week_10_lab_session_dog_im
 
 *• Different combinations of input and output sequences*
 
-
+link
 ```
 Prof. Mehdi Pirahandeh
 ```
