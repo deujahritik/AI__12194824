@@ -175,7 +175,8 @@ https://github.com/deujahritik/AI__12194824/blob/main/Week_12_lab_GroupF.ipynb
 
 *• Different combinations of input and output sequences*
 
-https://github.com/deujahritik/12194824/blob/main/Week_13_Lab_GroupF.ipynb
+https://github.com/deujahritik/AI__12194824/blob/main/Week_13_Lab_GroupF.ipynb
+
 ```
 Prof. Mehdi Pirahandeh
 ```
