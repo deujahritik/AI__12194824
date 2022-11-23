@@ -16,7 +16,7 @@
 
 # Course Goals:
 
-## 1.Week_3_lecture
+## 1.Week_3_lab
 
 *• To Get Started with Google Colab.*
 
@@ -26,7 +26,7 @@
 
 https://github.com/deujahritik/AI__12194824/blob/main/intro_colab.ipynb
 
-## 2.Week_4_lecture
+## 2.Week_4_lab
 
 *• To Introduce  Datasets used when training networks.*
 
@@ -43,7 +43,7 @@ https://github.com/deujahritik/AI__12194824/blob/main/intro_colab.ipynb
  https://github.com/deujahritik/AI__12194824/blob/main/Google_colab.ipynb
 
 
-## 3.Week_5_lecture
+## 3.Week_5_lab
 
 *• Meaning of Tensorflow which is w is a library based on Python that provides different types of functionality for deep learning models.*
 
@@ -60,7 +60,7 @@ https://github.com/deujahritik/AI__12194824/blob/main/intro_colab.ipynb
 https://github.com/deujahritik/AI__12194824/blob/main/tensorflow.ipynb
 https://github.com/deujahritik/AI__12194824/blob/main/pip_installation.ipynb
 
-## 3.Week_6_lecture
+## 3.Week_6_lab
 
 *• To learn Linear Regression using TensorFlow*
 
@@ -74,7 +74,7 @@ https://github.com/deujahritik/AI__12194824/blob/main/Week6_Linear_Regression%20
 https://github.com/deujahritik/AI__12194824/blob/main/Week6_Linear_Regression%20(2).ipynb
 
 
-## 4.Week_7_lecture
+## 4.Week_7_lab
 *• Pytorch: PyTorch is a system for executing dynamic computational graphs over Tensor objects that behave similarly as numpy ndarray. It comes with a powerful automatic differentiation engine that removes the need for manual back-propagation.*
 
 *• Convolutional Neural Networks*
@@ -94,7 +94,7 @@ https://github.com/deujahritik/AI__12194824/blob/main/Week6_Linear_Regression%20
 https://github.com/deujahritik/AI__12194824/blob/main/Week_7_lab_session-2.ipynb
 https://github.com/deujahritik/AI__12194824/blob/main/Week_7_lab_session_CIFAR10_withTorch.ipynb
 
-## 5.Week_9
+## 5.Week_9_lab
 
 *• Logistic unit for binary classification*
 
@@ -115,7 +115,7 @@ https://github.com/deujahritik/AI__12194824/blob/main/Week_7_lab_session_CIFAR10
 https://github.com/deujahritik/AI__12194824/blob/main/Week_9_AI_lab.ipynb
 https://github.com/deujahritik/AI__12194824/blob/main/Week_9_lab_session-2.ipynb
 
-## 5.Week_10
+## 5.Week_10_lab
 
 *• VGGNet*
 
@@ -133,7 +133,7 @@ https://github.com/deujahritik/AI__12194824/blob/main/Week_9_lab_session-2.ipynb
 
 https://github.com/deujahritik/AI__12194824/blob/main/Week_10_lab_session_dog_image.ipynb
 
-## 6.Week_11_lecture
+## 6.Week_11_lab
  
 *• Limitations of Feedforward Networks*
 
@@ -151,7 +151,7 @@ https://github.com/deujahritik/AI__12194824/blob/main/Week_10_lab_session_dog_im
 
 https://github.com/deujahritik/AI__12194824/blob/main/Week_11_lab_session.ipynb
 
-## 7.Week_12_lecture
+## 7.Week_12_lab
 
 *• Keeping Gradients Healthy*
 
@@ -163,7 +163,7 @@ https://github.com/deujahritik/AI__12194824/blob/main/Week_11_lab_session.ipynb
 
 https://github.com/deujahritik/AI__12194824/blob/main/Week_12_lab_GroupF.ipynb
 
-## 8.Week_13_lecture
+## 8.Week_13_lab
 
 *• Encoding text*
 
