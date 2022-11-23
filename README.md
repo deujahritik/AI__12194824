@@ -161,7 +161,7 @@ https://github.com/deujahritik/AI__12194824/blob/main/Week_11_lab_session.ipynb
 
 *• Alternative view of LSTM*
 
-link
+https://github.com/deujahritik/AI__12194824/blob/main/Week_12_lab_GroupF.ipynb
 
 ## 8.Week_13_lecture
 
