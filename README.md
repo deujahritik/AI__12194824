@@ -177,6 +177,7 @@ https://github.com/deujahritik/AI__12194824/blob/main/Week_12_lab_GroupF.ipynb
 
 Topic : Natural Language Processing, binary unigram, binary bigram, TF-IDF bigram model
 https://github.com/deujahritik/AI__12194824/blob/main/Week_13_Lab_GroupF.ipynb
+
 Topic : A sequence model built on one-hot encoded vector sequences
 https://github.com/deujahritik/AI__12194824/blob/main/Week_13_lab_session2.ipynb
 
