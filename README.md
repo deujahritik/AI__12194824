@@ -175,7 +175,15 @@ https://github.com/deujahritik/AI__12194824/blob/main/Week_12_lab_GroupF.ipynb
 
 *• Different combinations of input and output sequences*
 
+Topic : Natural Language Processing, binary unigram, binary bigram, TF-IDF bigram model
 https://github.com/deujahritik/AI__12194824/blob/main/Week_13_Lab_GroupF.ipynb
+Topic : A sequence model built on one-hot encoded vector sequences
+https://github.com/deujahritik/AI__12194824/blob/main/Week_13_lab_session2.ipynb
+
+## 9.Week_14_lab
+
+Topic : Natural Language Processing using transformer encoder
+https://github.com/deujahritik/AI__12194824/blob/main/Week_14_lab_GroupF.ipynb
 
 ```
 Prof. Mehdi Pirahandeh
